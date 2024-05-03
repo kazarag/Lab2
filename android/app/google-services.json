@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531589849271",
+    "project_id": "fir-lab3-9b800",
+    "storage_bucket": "fir-lab3-9b800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531589849271:android:a6225a6c15a2bf6d8bed32",
+        "android_client_info": {
+          "package_name": "com.firebaselab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4US4SdUOhAgRqcOZRmIeH35HqVVzHyhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
